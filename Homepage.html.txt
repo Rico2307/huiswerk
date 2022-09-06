@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Mijn pagina</title>
+</head>
+<body>
+<h1>Madurodam</h1>
+<header> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Madurodam_pays_bas.JPG/1200px-Madurodam_pays_bas.JPG" width="200" height="100">
+<p><a href="C:\Users\U012832\Desktop\Huiswerk\Website attractie/index.html">Index</a></p>
+<p><a href="C:\Users\U012832\Desktop\Huiswerk\Website attractie/galerij.html">Galerij</a></p>
+<p><a href="C:\Users\U012832\Desktop\Huiswerk\Website attractie/info.html">info</a></p>
+
+
+</div>
+</body>
+</html>
